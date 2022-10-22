@@ -1,0 +1,8 @@
+E:\Cuccok\Programozás\x_c_sharp\Stream-based-server-client-app\Stream-based-server-client-app\Server-app\bin\Debug\Server-app.exe.config
+E:\Cuccok\Programozás\x_c_sharp\Stream-based-server-client-app\Stream-based-server-client-app\Server-app\bin\Debug\Server-app.exe
+E:\Cuccok\Programozás\x_c_sharp\Stream-based-server-client-app\Stream-based-server-client-app\Server-app\bin\Debug\Server-app.pdb
+E:\Cuccok\Programozás\x_c_sharp\Stream-based-server-client-app\Stream-based-server-client-app\Server-app\obj\Debug\Server-app.csproj.AssemblyReference.cache
+E:\Cuccok\Programozás\x_c_sharp\Stream-based-server-client-app\Stream-based-server-client-app\Server-app\obj\Debug\Server-app.csproj.SuggestedBindingRedirects.cache
+E:\Cuccok\Programozás\x_c_sharp\Stream-based-server-client-app\Stream-based-server-client-app\Server-app\obj\Debug\Server-app.csproj.CoreCompileInputs.cache
+E:\Cuccok\Programozás\x_c_sharp\Stream-based-server-client-app\Stream-based-server-client-app\Server-app\obj\Debug\Server-app.exe
+E:\Cuccok\Programozás\x_c_sharp\Stream-based-server-client-app\Stream-based-server-client-app\Server-app\obj\Debug\Server-app.pdb
