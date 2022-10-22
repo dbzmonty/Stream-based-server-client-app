@@ -32,6 +32,14 @@ namespace Client_app
                 w.WriteLine("Hello, this is a client!");
                 w.Flush();
 
+                string input = String.Empty;
+                while (input != "disconnect")
+                {
+                    input = Console.ReadLine();
+                    w.WriteLine(input);
+                    w.Flush();
+                }
+
                 Console.WriteLine("Client quit!");
                 Console.ReadKey();
             }
